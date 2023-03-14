@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH -l $(which /action)
+export PATH=$PATH:/action
